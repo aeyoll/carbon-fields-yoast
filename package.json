@@ -11,14 +11,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/htmlburger/carbon-fields-yoast.git"
+		"url": "git+https://github.com/aeyoll/carbon-fields-yoast.git"
 	},
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/htmlburger/carbon-fields-yoast/issues"
+		"url": "https://github.com/aeyoll/carbon-fields-yoast/issues"
 	},
-	"homepage": "https://github.com/htmlburger/carbon-fields-yoast#readme",
+	"homepage": "https://github.com/aeyoll/carbon-fields-yoast#readme",
 	"devDependencies": {
 		"webpack": "^5.68.0",
 		"webpack-cli": "^4.9.2"
