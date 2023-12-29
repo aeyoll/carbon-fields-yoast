@@ -6,5 +6,10 @@
         "psr-4": {
             "Carbon_Fields_Yoast\\": "core/"
         }
+    },
+    "extra": {
+        "files": [
+            "dist/*"
+        ]
     }
 }
