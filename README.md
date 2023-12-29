@@ -4,7 +4,7 @@ __Carbon Fields Yoast__ is an addon to Carbon Fields that allows developers to c
 
 ## How to use?
 
-Install via composer:
+Install via composer, in your theme repository:
 
 ```bash
 composer require aeyoll/carbon-fields-yoast
