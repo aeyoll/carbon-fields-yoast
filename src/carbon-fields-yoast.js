@@ -105,6 +105,8 @@ class CarbonFieldsYoast {
 			attachments.forEach( ( attachment ) => {
 				content += `<img src="${attachment.url}" alt="${attachment.alt}" title="${attachment.title}">`;
 			});
+		} else if ('type' in field.attributes && field.attributes['type'] === 'url') {
+			content = `<a href="${field.value}">${field.value}</a>`;
 		} else {
 			content = field.value;
 		}
